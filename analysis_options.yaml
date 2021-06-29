@@ -6,3 +6,8 @@ linter:
     prefer_relative_imports: true
     public_member_api_docs: false
     sort_constructors_first: false
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
