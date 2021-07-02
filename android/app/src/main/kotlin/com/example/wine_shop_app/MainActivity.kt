@@ -1,4 +1,4 @@
-package com.example.wine_shop_app
+package com.gabrielcarneiro.wine_shop_app
 
 import io.flutter.embedding.android.FlutterActivity
 
