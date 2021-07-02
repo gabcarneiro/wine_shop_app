@@ -1,4 +1,4 @@
-import 'package:wine_shop_app/domain/core/failures.dart';
+import 'failures.dart';
 
 class UnexpectedValueError extends Error {
   final ValueFailure valueFailure;

@@ -2,7 +2,6 @@ import 'package:dartz/dartz.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/services.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:wine_shop_app/domain/core/errors.dart';
 
 import '../../domain/auth/auth_facade.dart';
 import '../../domain/auth/auth_failure.dart';
